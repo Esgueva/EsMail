@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EsMail</string>
+    <string name="inicio">START</string>
+    <string name="autor">AUTHOR</string>
+    <string name="bienvenido">WELCOME TO ESMAIL</string>
+    <string name="volver">RETURN</string>
+    <string name="title_activity_correo">Inbox</string>
+    <string name="enviado">Message sent successfully to </string>
+    <string name="fallo">Failure in accreditation, remain</string>
+    <string name="intentos">Attempts exceeded, login closed.</string>
+    <string name="intent">attempts.</string>
+    <string name="desconectar">DISCONNECT</string>
+    <string name="remitente">SENDER</string>
+    <string name="asunto">AFFAIR</string>
+    <string name="texto_del_correo">Mail text</string>
+    <string name="imgremitente">sender imageText of mail</string>
+    <string name="texto">TEXT:</string>
+    <string name="enviar_nuevo_mail">SEND NEW MAIL</string>
+    <string name="destinatario">ADDRESSEE:</string>
+    <string name="aceptar">ACCEPT</string>
+    <string name="identificacion"> ID ACCES</string>
+    <string name="imagen">image</string>
+</resources>

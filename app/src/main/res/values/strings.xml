@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">EsMail</string>
+    <string name="inicio">INICIO</string>
+    <string name="autor">AUTOR</string>
+    <string name="bienvenido">BIENVENIDO A ESMAIL</string>
+    <string name="volver">VOLVER</string>
+    <string name="title_activity_correo">Bandeja de Entrada</string>
+    <string name="action_settings">Settings</string>
+    <string name="enviado">Mensaje enviado con exito a </string>
+    <string name="fallo">Fallo en la acreditacion, quedan</string>
+    <string name="intentos">Intenos excedidos, login cerrado.</string>
+    <string name="intent">intentos.</string>
+    <string name="desconectar">DESCONECTAR</string>
+    <string name="remitente">REMITENTE</string>
+    <string name="asunto">ASUNTO</string>
+    <string name="texto_del_correo">Texto del correo</string>
+    <string name="imgremitente">imgremitente</string>
+    <string name="texto">TEXTO:</string>
+    <string name="enviar_nuevo_mail">ENVIAR NUEVO MAIL</string>
+    <string name="destinatario">DESTINATARIO:</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="identificacion">IDENTIFICACION</string>
+    <string name="imagen">imagen</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
